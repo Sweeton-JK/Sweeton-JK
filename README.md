@@ -1,7 +1,8 @@
 <div align="center">
   
 ## About
-Passonated on Data Science, ML & DL Teche, Front End Developer, Blogger.
+
+🚀 Passionate ML/DL & IoT professional skilled in TensorFlow, PyTorch, and R. Experienced in computer vision, NLP, and recommendation systems. 💡 Proficient in designing and implementing IoT systems, leveraging edge computing and cloud platforms. ⚙️ Expertise in building scalable distributed systems using Spark, and Hadoop. 🌟 Committed to innovation, problem-solving, and staying up-to-date with advancements. Let's collaborate on transformative projects! 💪
 
 -------------------
 
