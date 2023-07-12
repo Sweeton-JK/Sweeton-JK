@@ -22,6 +22,4 @@ Passonated on Data Science, ML & DL Teche, Front End Developer, Blogger.
  <div>
 
 -----
-Credits: [LachlanDev](https://github.com/LachlanDev)
 
-Last Edited on: 1/10/2021
