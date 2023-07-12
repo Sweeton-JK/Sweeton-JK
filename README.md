@@ -6,7 +6,7 @@ Passonated on Data Science, ML & DL Teche, Front End Developer, Blogger.
 -------------------
 
 ## Contact
-<a href="https://www.instagram.com/sweet_not_found/">![Instagram](https://img.shields.io/badge/Sweeton-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a href="https://www.instagram.com/sweet_not_found/">![Instagram](https://img.shields.io/badge/sweet_not_found-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 
 -------------------
 
